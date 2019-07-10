@@ -1,0 +1,64 @@
+# Site
+name: "Francisco Ugalde"
+title: "franciscougalde.com"
+description: "Senior Software Engineer"
+logo: 'assets/images/logo-favicon.png'
+favicon: 'assets/images/logo-favicon.png'
+#baseurl: /mediumish-theme-jekyll
+baseurl: ''
+google_analytics: 'UA-106120347-1'
+disqus: 'fjugaldev'
+mailchimp-list: 'https://mailchi.mp/7e3abe3d4f2e/franciscougalde-newsletter'
+include: ["_pages"]
+permalink: /:title/
+
+# Authors
+authors:
+  fjugaldev:
+    name: Francisco UGalde
+    display_name: fjugal.dev
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: fjugal.dev@franciscougalde.com 
+    web: https://www.franciscoygalde.com
+    twitter: https://twitter.com/fjugaldev
+    description: "Senior Software Engineer, Symfony Lover, Apassionated to the new technologies."
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Pagination 
+paginate: 6
+paginate_path: /page:num/
+    
+# Other
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+
+# Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
+adsense: "enabled"
+adsense-data-ad-client: "ca-pub-2046792861254371"
+adsense-data-ad-slot: "5927756201"
+
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "enabled"
+
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
