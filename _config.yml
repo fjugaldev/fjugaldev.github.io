@@ -8,7 +8,7 @@ favicon: 'assets/images/logo-favicon.png'
 baseurl: ''
 google_analytics: 'UA-106120347-1'
 disqus: 'fjugaldev'
-mailchimp-list: 'https://mailchi.mp/7e3abe3d4f2e/franciscougalde-newsletter'
+mailchimp-list: 'https://franciscougalde.us17.list-manage.com/subscribe?u=6f7556cfd349e68353c4ae1ef&id=4235ff6e34'
 include: ["_pages"]
 permalink: /:title/
 
