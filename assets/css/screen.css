@@ -1,7 +1,7 @@
-/* 
-Template Name: Mediumish 
-Copyright: Sal, WowThemes.net, https://www.wowthemes.net 
-License: https://www.wowthemes.net/freebies-license/ 
+/*
+Template Name: Mediumish
+Copyright: Sal, WowThemes.net, https://www.wowthemes.net
+License: https://www.wowthemes.net/freebies-license/
 */
 @media screen and (min-width:1500px) {
     html { font-size:18px; } /* Increase the font size on higher resolutions */
@@ -559,7 +559,7 @@ ul.tags li a:hover {
     background-color: #fff;
     width: 100%;
     padding: 14px 0;
-    z-index: 1;
+    z-index: 999;
     display: none;
 }
 
