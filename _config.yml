@@ -32,12 +32,15 @@ plugins:
   - jekyll-archives
 
 # Archives
-jekyll-archives:
-  enabled:
-    - categories
-  layout: archive
-  permalinks:
-    category: '/categoria/:name/'
+category_archive:
+    type: liquid
+    path: /categoria/:name/
+#jekyll-archives:
+#  enabled:
+#    - categories
+#  layout: archive
+#  permalinks:
+#    category: '/categoria/:name/'
 
 # Pagination
 paginate: 9
