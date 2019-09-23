@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hospedaje Web para tus proyectos
-permalink: /hospedaje-web
+title: Cloud Hosting para tus proyectos
+permalink: /cloud-hosting
 comments: false
 ---
 
@@ -166,7 +166,9 @@ comments: false
         </style>
 
 <div class="row justify-content-between">
-    <div class="col-md-12 pr-5">  
+    <div class="col-md-12 pr-5">
+        <p>Estoy ofreciendo <b>Cloud Hosting</b> al mejor precio y con características flexibles. Tanto si eres <b>desarrollador</b> autónomo/freelance, como una <b>empresa</b>, hay un plan de cloud hosting que se adapta perfectamente a tus necesidades y requerimientos.</p> 
+        <p>Nuestros servidores son de alta gama por ende proveen excelente rendimiento. Todos los planes cuentan con la tecnología <a href="https://www.litespeedtech.com" target="_blank">LiteSpeed Tech</a></p>  
         <section>
           <div class='pricing pricing-palden'>
             <div class='pricing-item'>
@@ -177,13 +179,13 @@ comments: false
                   <path class='deco-layer deco-layer--3' d='M43.415,98.342c0,0,48.283-68.927,109.133-68.927c65.886,0,97.983,67.914,97.983,67.914v3.716&#x000A;	H42.401L43.415,98.342z' fill='#FFFFFF' opacity='0.7'></path>
                   <path class='deco-layer deco-layer--4' d='M-34.667,62.998c0,0,56-45.667,120.316-27.839C167.484,57.842,197,41.332,232.286,30.428&#x000A;	c53.07-16.399,104.047,36.903,104.047,36.903l1.333,36.667l-372-2.954L-34.667,62.998z' fill='#FFFFFF'></path>
                 </svg>
-                <div class='pricing-price'><span class='pricing-currency'>€</span>4
+                <div class='pricing-price'><span class='pricing-currency'>€</span>5
                   <span class='pricing-period'>/ mon</span>
                 </div>
                 <h3 class='pricing-title'>Startup</h3>
               </div>
               <ul class='pricing-feature-list'>
-                  <li class='pricing-feature'><span>10GB</span> Bandwidth</li>
+                  <li class='pricing-feature'><span>25GB</span> Bandwidth</li>
                   <li class='pricing-feature'><span>100GB</span> SSD Storage</li>
                   <li class='pricing-feature'><span>Unlimited</span> Email Accounts</li>
                   <li class='pricing-feature'><span>5</span> Mysql / PostgreSQL</li>
@@ -209,10 +211,10 @@ comments: false
                 <h3 class='pricing-title'>Business</h3>
               </div>
               <ul class='pricing-feature-list'>
-                 <li class='pricing-feature'><span>10GB</span> Bandwidth</li>
-                 <li class='pricing-feature'><span>100GB</span> SSD Storage</li>
+                 <li class='pricing-feature'><span>50GB</span> Bandwidth</li>
+                 <li class='pricing-feature'><span>200GB</span> SSD Storage</li>
                  <li class='pricing-feature'><span>Unlimited</span> Email Accounts</li>
-                 <li class='pricing-feature'><span>5</span> Mysql / PostgreSQL</li>
+                 <li class='pricing-feature'><span>15</span> Mysql / PostgreSQL</li>
                  <li class='pricing-feature'><span>1</span> Domain (Ask for reg. price)</li>
                  <li class='pricing-feature'><span>SSL Certificate</span> Included</li>
                  <li class='pricing-feature'><span>Cloudflare</span> Included</li>
@@ -229,16 +231,16 @@ comments: false
                   <path class='deco-layer deco-layer--3' d='M43.415,98.342c0,0,48.283-68.927,109.133-68.927c65.886,0,97.983,67.914,97.983,67.914v3.716&#x000A;	H42.401L43.415,98.342z' fill='#FFFFFF' opacity='0.7'></path>
                   <path class='deco-layer deco-layer--4' d='M-34.667,62.998c0,0,56-45.667,120.316-27.839C167.484,57.842,197,41.332,232.286,30.428&#x000A;	c53.07-16.399,104.047,36.903,104.047,36.903l1.333,36.667l-372-2.954L-34.667,62.998z' fill='#FFFFFF'></path>
                 </svg>
-                <div class='pricing-price'><span class='pricing-currency'>€</span>10
+                <div class='pricing-price'><span class='pricing-currency'>€</span>9
                   <span class='pricing-period'>/ mon</span>
                 </div>
                 <h3 class='pricing-title'>Advanced</h3>
               </div>
               <ul class='pricing-feature-list'>
-                  <li class='pricing-feature'><span>10GB</span> Bandwidth</li>
-                  <li class='pricing-feature'><span>100GB</span> SSD Storage</li>
+                  <li class='pricing-feature'><span>Unlimited</span> Bandwidth</li>
+                  <li class='pricing-feature'><span>Unlimited</span> SSD Storage</li>
                   <li class='pricing-feature'><span>Unlimited</span> Email Accounts</li>
-                  <li class='pricing-feature'><span>5</span> Mysql / PostgreSQL</li>
+                  <li class='pricing-feature'><span>Unlimited</span> Mysql / PostgreSQL</li>
                   <li class='pricing-feature'><span>1</span> Domain (Ask for reg. price)</li>
                   <li class='pricing-feature'><span>SSL Certificate</span> Included</li>
                   <li class='pricing-feature'><span>Cloudflare</span> Included</li>
